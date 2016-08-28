@@ -1,6 +1,7 @@
 // Converts a string to lowercase, and 
 // displays the string's length
 // as well as a count of letters
+/*
 public class FixDebugSeven4
 {
    public static void main(String[] args)
@@ -21,4 +22,4 @@ public class FixDebugSeven4
          ("The number of CHARACTERS in the string is " + stringLength);
       System.out.println("The number of LETTERS is " + stringLength);
    }
-}
+}*/

@@ -2,7 +2,7 @@
 public class FixDebugSeven3
 {
    public static void main(String[] args)
-   { 
+   {
       String quote =
         "Honesty is the first chapter in the book of wisdom. - Thomas Jefferson";
 
